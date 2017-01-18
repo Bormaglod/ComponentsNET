@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.3
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ComponentsNET", "ComponentsNET.csproj", "{3BDAC84E-4C7A-4F12-ADF6-6D515CD37B16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "..\..\Test\Test.csproj", "{52163A04-EDB4-49FD-A0C7-D07474B9FE92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BDAC84E-4C7A-4F12-ADF6-6D515CD37B16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BDAC84E-4C7A-4F12-ADF6-6D515CD37B16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BDAC84E-4C7A-4F12-ADF6-6D515CD37B16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BDAC84E-4C7A-4F12-ADF6-6D515CD37B16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52163A04-EDB4-49FD-A0C7-D07474B9FE92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52163A04-EDB4-49FD-A0C7-D07474B9FE92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52163A04-EDB4-49FD-A0C7-D07474B9FE92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52163A04-EDB4-49FD-A0C7-D07474B9FE92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
